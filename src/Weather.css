@@ -1,0 +1,38 @@
+.Weather{
+    border: 2px solid #0016ee;
+    background-color:black;
+    font-family: 'VT323', monospace;
+    padding: 16px;
+    margin:30px;
+    color: #defe47;
+    border-radius: 10px;   
+
+}
+
+.Weather form{
+    margin-bottom:20px;
+
+}
+
+.Weather h1{
+    color:#fe00fe;
+    font-size: 50px;
+    font-weight:500;
+    height:60px;
+
+}
+
+.temperature {
+    font-size: 50px;
+
+}
+
+.Weather ul{
+margin: 0;
+
+}
+
+.Weather li{
+    list-style:none;
+    font-size: 30px;
+}

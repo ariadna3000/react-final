@@ -1,13 +1,14 @@
 .Weather{
-    border: 2px solid #0016ee;
+    border: 2px solid gray;
     background-color:white;
     font-family: 'VT323', monospace;
     padding: 16px;
     margin:30px;
-    color: #defe47;
     border-radius: 10px;   
 
 }
+
+
 
 .Weather form{
     margin-bottom:20px;
@@ -19,6 +20,7 @@
     font-size: 50px;
     font-weight:500;
     height:60px;
+    text-align:center;
 
 }
 

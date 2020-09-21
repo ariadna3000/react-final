@@ -16,8 +16,12 @@ export default function App() {
             Ariadna Chavez{" "}
           </a>
           and is{" "}
-          <a href="https://github.com/ariadna3000/react-final" target="_blank">
-            open-sourced on GitHub rel="noopener noreferrer"
+          <a
+            href="https://github.com/ariadna3000/react-final"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
           </a>
         </footer>
       </div>

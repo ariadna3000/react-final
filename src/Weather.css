@@ -5,14 +5,10 @@
     padding: 16px;
     margin:30px;
     border-radius: 10px;   
-
 }
-
-
 
 .Weather form{
     margin-bottom:20px;
-
 }
 
 .Weather h1{
@@ -21,17 +17,14 @@
     font-weight:500;
     height:60px;
     text-align:center;
-
 }
 
 .temperature {
     font-size: 60px;
-
 }
 
 .Weather ul{
 margin: 0;
-
 }
 
 .Weather li{
